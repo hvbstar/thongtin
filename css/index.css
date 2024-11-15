@@ -1680,7 +1680,7 @@ SKILLS START
 }
 
 /* Hiệu ứng tích xanh đổi màu với cùng tốc độ */
-.color-changing-icon {
+/* .color-changing-icon {
   animation: slowColorChange 3s infinite;
 }
 
@@ -1691,7 +1691,7 @@ SKILLS START
   60% { filter: hue-rotate(180deg); }
   80% { filter: hue-rotate(240deg); }
   100% { filter: hue-rotate(300deg); }
-}
+} */
 
 
 
